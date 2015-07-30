@@ -7,7 +7,8 @@ The source file origins from [Clang LibTooling Example](http://kevinaboos.blogsp
 ##Function of the source file
 Rewrite some part of the program.
 
-##Usage
+##Usag
+$ make
 $ ./run_example.sh
 
 Make sure the permission of execution.

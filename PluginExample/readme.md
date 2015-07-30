@@ -8,6 +8,7 @@ The source file origins from [Clang Plugin Example](http://kevinaboos.blogspot.c
 Rewrite some part of the program.
 
 ##Usage
+$ make
 $ ./run_example.sh
 
 Make sure the permission of execution.

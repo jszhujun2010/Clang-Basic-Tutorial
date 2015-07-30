@@ -10,4 +10,5 @@ BTW, this tutorial gives a nice introduction of basic Clang concepts, even thoug
 The source file test1.cpp can walk through the program test.c's AST, print all the function declarations and statement class name(a little ugly).
 
 ##Usage(comand)
-./test1 test.c
+$ make
+$ ./test1 test.c
